@@ -1,0 +1,4 @@
+.env
+./www/vendor
+.idea
+.idea/*

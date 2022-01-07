@@ -1,0 +1,16 @@
+{
+    "name": "hndlabs/exemple",
+    "description": "container de exemplo",
+    "type": "project",
+    "require": {
+        "codeception/codeception": "4.1.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vinicius Resende",
+            "email": "vinicius.resende@hndlabs.com.br"
+        }
+    ],
+    "minimum-stability": "dev"
+}
