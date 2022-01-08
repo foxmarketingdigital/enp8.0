@@ -1,4 +1,5 @@
 .env
-./www/vendor
 .idea
 .idea/*
+www/vendor
+www/vendor/*
